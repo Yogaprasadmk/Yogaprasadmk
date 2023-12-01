@@ -3,7 +3,7 @@
 
 <hr>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yogaprasad!;+Web Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yogaprasad!;"/>
 </h1>
   <hr>
 <h3 align="center">Passionate CSE Student | Exploring the Boundless World of Technology </h3>

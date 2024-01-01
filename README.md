@@ -14,7 +14,7 @@
 <h3> 💫 Little Bit More About Me </h3>
 <p>🔭 I'm currently working on Personal Portfolio Project</p>
 <p>👯 I want to collaborate on Frontend,Backend Projects</p>
-<p>🌱 I'm currently learning Front End Development,Java Full Stack</p>
+<p>🌱 I'm currently learning Front End Web Development</p>
 <p>💬 Ask me about Front End Development,Roadmap for various development roles.</p>
 <p>🤖All of my projects are available at <a href="https://github.com/Yogaprasadmk?tab=repositories">yogaprasadmk.github</a></p>
 <p>⚡ Fun Fact: Headphones can increase the bacteria in your ears. ..</p>

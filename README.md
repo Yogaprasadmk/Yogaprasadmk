@@ -3,7 +3,7 @@
 
 <hr>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yogaprasad!+Self Taught Web Developer and Programmer;"/>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=745&duration=4990&pause=1000&color=F79A27CD&background=D7D7D703&center=true&vCenter=true&random=false&width=440&height=55&lines=Hello+Developers!;I+am+Yogaprasad+M+K!;Self-Taught+Programmer+and+Web+Developer+" alt="Typing SVG" /></a>
 </h1>
   <hr>
 <h3 align="center">Passionate CSE Student | Exploring the Boundless World of Technology </h3>

@@ -74,10 +74,9 @@
 </div>
 <hr/>
 <!-- Section 7 - Random jokes -->
-<h3 align="center">Random dev joke for you! (create your own by clicking here ↓)</h3>
-<a href="https://readme-jokes.vercel.app">
-   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" width="2000px"/ >
-</a>
+<h3 align="center">✍️Random Dev Quote</h3>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)">
 <!-- Section 8 - Support -->
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/yogaprasadmk"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yogaprasadmk" /></a></p>
@@ -85,9 +84,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 <hr/>
-<h3 align="center">✍️Random Dev Quote</h3>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)">
-</div>
+
+
 
 

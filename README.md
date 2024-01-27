@@ -62,7 +62,12 @@
    <img width=380 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
   <img width=380  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yogaprasadmk&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    <img width=380  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
+    
+<img width=380  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
+
+
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ptqhlfcdybsid6ldnygvdordri&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ptqhlfcdybsid6ldnygvdordri&cover_image=true&theme=default&show_offline=true&background_color=00ff00&interchange=true&bar_color=ff0000&bar_color_cover=true">
+
 </div>
 </div>
 <hr/>

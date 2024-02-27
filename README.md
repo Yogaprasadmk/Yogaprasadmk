@@ -1,6 +1,3 @@
-![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8](https://github.com/Yogaprasadmk/Yogaprasadmk/assets/120255515/b227805b-baa0-42bc-a16d-1888a3df386c)
-
-<hr>
 <!-- Section 1  typing animations-->
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=745&duration=4990&pause=1000&color=F79A27CD&background=D7D7D703&center=true&vCenter=true&random=false&width=440&height=55&lines=Hello+Developers!;I+am+Yogaprasad+M+K!;Self-Taught+Programmer+and+Web+Developer+" alt="Typing SVG" /></a>

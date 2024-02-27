@@ -11,9 +11,9 @@
   <td>
 <h3> 💫 Little Bit More About Me </h3>
 <p>🔭 I'm currently working on Personal Portfolio Project</p>
-<p>👯 I want to collaborate on Frontend,Backend Projects</p>
-<p>🌱 I'm currently learning Front End Web Development</p>
-<p>💬 Ask me about Front End Development,Roadmap for various development roles.</p>
+<p>👯 I want to collaborate on Frontend Projects</p>
+<p>🌱 I'm currently learning front End Web Development</p>
+<p>💬 Ask me about Front End Development</p>
 <p>🤖All of my projects are available at <a href="https://github.com/Yogaprasadmk?tab=repositories">yogaprasadmk.github</a></p>
 <p>⚡ Fun Fact: Headphones can increase the bacteria in your ears. ..</p>
     <p align="center">📫 How to reach me?</p>

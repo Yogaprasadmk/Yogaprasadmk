@@ -1,6 +1,6 @@
 <!-- Section 1  typing animations-->
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=745&duration=4990&pause=1000&color=F79A27CD&background=D7D7D703&center=true&vCenter=true&random=false&width=440&height=55&lines=Hello+Developers!;I+am+Yogaprasad+M+K!;Self-Taught+Programmer+" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=745&duration=4990&pause=1000&color=F79A27CD&background=D7D7D703&center=true&vCenter=true&random=false&width=440&height=55&lines=Hello+Developers!;I+am+Yogaprasad+M+K!;Self-Taught+Programmer+and+Web Developer" alt="Typing SVG" /></a>
 </h1>
   <hr>
 <h3 align="center">Passionate CSE Student | Exploring the Boundless World of Technology </h3>
@@ -11,8 +11,9 @@
   <td>
 <h3> 💫 Little Bit More About Me </h3>
 <p>🔭 I'm currently working on Personal Portfolio Project</p>
+<p>I'm currently learning Full-Stack MERN Developement</p>
 <p>🤖All of my projects are available at <a href="https://github.com/Yogaprasadmk?tab=repositories">yogaprasadmk.github</a></p>
-<p>⚡ Fun Fact: Headphones can increase the bacteria in your ears. ..</p>
+<p>⚡Fact: The global artificial intelligence (AI) market is expected to reach $126 billion by 2025..</p>
     <p align="center">📫 How to reach me?</p>
     <div align="center"> 
   <a href="mailto:prasadyoga61@gmail.com">
@@ -33,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,java" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git,sass"/>
+    <img src="https://skillicons.dev/icons?i=javascript,java,react"/><br>
 </div>
 <br/>
 <!-- Section 4 - GitHub Trophies -->

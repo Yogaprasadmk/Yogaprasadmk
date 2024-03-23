@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git,sass"/>
-    <img src="https://skillicons.dev/icons?i=javascript,java,react,node,express,mongodb,mysql"/><br>
+    <img src="https://skillicons.dev/icons?i=javascript,java,react,nodejs,express,mongodb,mysql"/><br>
 </div>
 <br/>
 <!-- Section 4 - GitHub Trophies -->

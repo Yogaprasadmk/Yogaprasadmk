@@ -11,6 +11,10 @@
   <td>
 <h3> 💫 Little Bit More About Me </h3>
 <p>🔭 I'm currently working on Personal Portfolio Project</p>
+<p>🌱 I'm presently acquiring skills in the JS Libraries </p>
+<p>🧑‍🤝‍🧑 I'm seeking opportunities for collaboration in the field of Front-End Development</p>
+<p>👨‍💻 Keen on programming</p>
+<p>👨‍💻 I'm presently engaged in a project using the Vue + React</p>
 <p>🔭I'm currently learning Full-Stack MERN Developement</p>
 <p>🤖All of my projects are available at <a href="https://github.com/Yogaprasadmk?tab=repositories">yogaprasadmk.github</a></p>
 <p>⚡Fact: The global artificial intelligence (AI) market is expected to reach $126 billion by 2025..</p>

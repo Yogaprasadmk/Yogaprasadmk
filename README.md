@@ -46,7 +46,7 @@ class Skills extends SoftwareDeveloper {
 <hr>
 <!-- Section 3 Visitor count-->
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Yogaprasadmk/count.svg" />
 </p>
 <!-- Section 4 - GitHub Trophies -->

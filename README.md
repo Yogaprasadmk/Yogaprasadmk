@@ -42,6 +42,9 @@ class Skills extends SoftwareDeveloper {
 [![](https://img.shields.io/badge/Telegram-Yogaprasadmk-blue)](https://t.me/naveenv01)
 [![](https://img.shields.io/badge/Leetcode-Yogaprasadmk-brightgreen)](https://leetcode.com/Yogaprasadmk/)
 [![](https://img.shields.io/badge/Gmail-prasadyoga61%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+<br/>
+<hr>
+<!-- Section 3 Visitor count-->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Yogaprasadmk/count.svg" />
@@ -51,7 +54,7 @@ class Skills extends SoftwareDeveloper {
  <h3 align="center">🏆GitHub Trophies</h3>
 <table align="center">
   <td>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=Yogaprasadmk&theme=onedark"width="auto" height="auto"></p>
+    <p><img src="https://github-profile-trophy.vercel.app/?username=Yogaprasadmk&theme=onedark"></p>
   </td>
 </table>
 <hr>

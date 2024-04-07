@@ -1,3 +1,48 @@
+<h2>नमस्ते (Namaste)🙏🏻, I'm Yogaprasad <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Aspiring Software Engineer <!--at--> <a href=""></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+<!--![Twitter Follow](https://img.shields.io/twitter/follow/yogaprasadmk?label=Follow)-->
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-yogaprasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yogaprasadmk/)](https://linkedin.com/in/yogaprasadmk/)
+![GitHub followers](https://img.shields.io/github/followers/yogaprasadmk?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=Yogaprasadmk.Yogaprasadmk)
+![Waka Readme](https://github.com/Yogaprasadmk/Yogaprasadmk/workflows/Waka%20Readme/badge.svg)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript","Python","Java"],
+    askMeAbout: ["web dev", "tech","photography","Ai tools"],
+    technologies: {
+        frontEnd: {
+            js: ["react"],
+            css: ["materialize", "Tailwind", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        devOps: ["AWS"],
+        databases: ["mongodb", "MySql"],
+    },
+    currentProject: "I am developing nike website clone using tailwind + vuejs",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+<!--START_SECTION:activity-->
 <!-- Section 1  typing animations-->
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=745&duration=4990&pause=1000&color=F79A27CD&background=D7D7D703&center=true&vCenter=true&random=false&width=440&height=55&lines=Hello+Developers!;I+am+Yogaprasad+M+K!;Self-Taught+Programmer+and+Web Developer" alt="Typing SVG" /></a>

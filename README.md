@@ -52,7 +52,7 @@ class Skills extends SoftwareDeveloper {
  <h3 align="center">🏆GitHub Trophies</h3>
 <table align="center">
   <td>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=Yogaprasadmk"></p>
+    <p><img src="https://github-profile-trophy.vercel.app/?username=Yogaprasadmk&theme=onedark"width="auto" height="auto"></p>
   </td>
 </table>
 <hr>
@@ -65,7 +65,6 @@ class Skills extends SoftwareDeveloper {
    <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
   <img width=380  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yogaprasadmk&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    
 <img width=430  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
 </div>
 </div>

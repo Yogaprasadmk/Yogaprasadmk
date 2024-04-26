@@ -16,12 +16,12 @@ class Bio extends Aspiring SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Java','Python'];
-  askMeAbout: ["web dev", "tech","photography","Ai tools"],
+  languages  = ['JavaScript', 'Java'];
+  askMeAbout: ["web dev", "tech","Ai tools"],
   technologies: {
         frontEnd: {
             js: ["react"],
-            css: ["materialize", "Tailwind", "bootstrap"]
+            css: ["Tailwind", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],

@@ -39,8 +39,8 @@ class Skills extends SoftwareDeveloper {
 <!--![Waka Readme](https://github.com/Yogaprasadmk/Yogaprasadmk/workflows/Waka%20Readme/badge.svg)-->
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-yogaprasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yogaprasadmk/)](https://linkedin.com/in/yogaprasadmk/)
 ![GitHub followers](https://img.shields.io/github/followers/yogaprasadmk?label=Follow&style=social)
-[![](https://img.shields.io/badge/Telegram-Yogaprasadmk-blue)](https://t.me/naveenv01)
-[![](https://img.shields.io/badge/Leetcode-Yogaprasadmk-brightgreen)](https://leetcode.com/Yogaprasadmk/)
+[![](https://img.shields.io/badge/Telegram-Yogaprasadmk-blue)](https://t.me/Yogaprasadmk)
+[![](https://img.shields.io/badge/Leetcode-Yogaprasadmk-brightgreen)](https://leetcode.com/yogaprasad_mk/)
 [![](https://img.shields.io/badge/Gmail-prasadyoga61%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 <br/>
 <hr>

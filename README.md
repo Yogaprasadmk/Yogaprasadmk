@@ -20,16 +20,16 @@ class Skills extends SoftwareDeveloper {
   askMeAbout: ["web dev", "tech","Ai tools"],
   technologies: {
         frontEnd: {
-            js: ["react"],
+            js: ["react,next"],
             css: ["Tailwind", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
         },
         devOps: ["AWS"],
-        databases: ["mongodb", "MySql"],
+        databases: ["mongodb", "Sql"],
     },
-    currentProject: "I am developing nike website clone using tailwind + vuejs",
+    currentProject: "I am developing thiefalarm detector using React js + tensorflow",
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```

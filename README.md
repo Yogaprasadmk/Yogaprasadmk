@@ -152,7 +152,12 @@ class Skills extends SoftwareDeveloper {
 <h3 align="center">✍️Random Dev Quote</h3>
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)">
+</div>
 
+<div align="center">
+	<h3 align="center">Dev Jokes</h3>
+<img src="https://readme-jokes.vercel.app/api" width=500/>
+</div>
   
 <!-- Section 12 - Support -->
 <h3 align="center">Support:</h3>

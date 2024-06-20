@@ -1,5 +1,7 @@
 <!--[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Yoga%20🌻&width=1100&height=400)](https://github.com/Akshay090/svg-banners)-->
-
+<!-- ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=HI%20I'M%20Yoga%20Prasad%20🤠&text2=💖%20Open%20Source&width=1000&height=400)-->
+<!--[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello,I'mYogaprasadmk🤹&width=1500&height=400)]-->
+<!--[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20I'm%20Yoga%20Prasad%20%M%20%K👨‍💻&width=1100&height=400)](https://github.com/Akshay090/svg-banners)-->
 <!-- Section 1- About Me-->
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />

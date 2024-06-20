@@ -1,3 +1,5 @@
+<!--[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Yoga%20🌻&width=1100&height=400)](https://github.com/Akshay090/svg-banners)-->
+
 <!-- Section 1- About Me-->
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
@@ -84,6 +86,14 @@ class Skills extends SoftwareDeveloper {
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
           </div>-->
+<!-- -->
+<hr/>
+<h3 align="center">Days Remaining</h3>
+<div align="center">
+<a href="https://dday-widget.minung.dev" align="center">
+    <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2024-12-31&startDate=2024-01-01&theme=theme2" alt="dday-widget.svg" />
+</a>
+</div>
 <!-- Section 4 - GitHub Trophies -->
 <hr/>
  <h3 align="center">🏆GitHub Trophies</h3>
@@ -102,7 +112,7 @@ class Skills extends SoftwareDeveloper {
    <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaprasadmk&layout=compact"/>
-  <img width=400  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
+  <img width=450  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
 </div>
 </div>
 <hr/>

@@ -114,7 +114,7 @@ class Skills extends SoftwareDeveloper {
    <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaprasadmk&layout=compact"/>
-  <img width=450  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
+  <img width=410  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
 </div>
 </div>
 <hr/>

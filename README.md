@@ -110,13 +110,17 @@ class Skills extends SoftwareDeveloper {
    <!-- Section 5 - Github stats -->
     <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align=center>
-  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yogaprasadmk&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+<img width=420 src="https://stats.quira.sh/Yogaprasadmk/languages-over-time?theme=dark)(https://quira.sh?utm_source=widgets&utm_campaign=Yogaprasadmk"/>
+<img width=400 src="https://stats.quira.sh/Yogaprasadmk/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Yogaprasadmk"/>
+<img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yogaprasadmk&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
 <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
-   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaprasadmk&layout=compact"/>
-  <img width=410  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
-	</div>
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaprasadmk&layout=compact"/>
+<img width=490  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats" height=auto>
+</div>
+	
 </div>
 <hr/>
  <!-- Section 6 - Wakatime activity graph -->

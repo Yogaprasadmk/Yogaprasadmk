@@ -119,15 +119,22 @@ class Skills extends SoftwareDeveloper {
 	</div>
 </div>
 <hr/>
+ <!-- Section 6 - Wakatime activity graph -->
+<div align = "center">
+	<h3>⚡Wakatime Dashboard⚡</h3>
+	<br/>
+<img src="https://wakatime.com/share/@018ca6b7-94da-4440-b462-39b06274f277/d23ec33f-5487-439e-b23d-0f54a71f0cb7.svg" width=1000 height=400/>	
+</div>
+<hr/>
 <div align=center>
-   <!-- Section 6 - Github activity graph -->
+   <!-- Section 7 - Github activity graph -->
     <h2 align="center">⚡ Github Activity Graph ⚡</h2>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogaprasadmk&bg_color=000000&color=f457ea&line=13d110&point=171616&area=true&hide_border=true)">
 </div>
 <hr/>
 
 <div align=center>
-  <!-- Section 7 - Github Dashboard -->
+  <!-- Section 8 - Github Dashboard -->
   <h2 align=center>⚡ Github Dashboard⚡</h2>
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=120255515" target="_blank">
   <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=120255515&image_size=auto&color_scheme=dark" width="1050" height="auto" alt="Dashboard stats of @Yogaprasadmk">
@@ -135,12 +142,10 @@ class Skills extends SoftwareDeveloper {
 </div>
 <hr/>
 
-<!-- section 8 Github Contribution time-->
-
 <!-- section 9 Github Contribution Chart -->
 
 
-<!-- section 10 -->
+<!-- section 10: Profile Summary -->
 <div align="center">
   <h2 align="center">⚡Profile Summary⚡</h2>
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yogaprasadmk&theme=aura_dark&utcOffset=8" width=800 heigth=auto/> -->
@@ -167,3 +172,4 @@ class Skills extends SoftwareDeveloper {
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 <hr/>
+

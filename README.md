@@ -50,9 +50,10 @@ class Skills extends SoftwareDeveloper {
 <br/>
 <hr>
 <!-- Section 3 Visitor count-->
+ <h3 align="center">Visitor Count</h3>
 <p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Yogaprasadmk/count.svg" />
+<!--   <h3 align="center">Visitor Count</h3> <br> -->
+  <img align="center" src="https://profile-counter.glitch.me/Yogaprasadmk/count.svg" />
 </p>
 
 <!-- languages and Tools-->
@@ -110,12 +111,12 @@ class Skills extends SoftwareDeveloper {
     <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yogaprasadmk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-   <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yogaprasadmk&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+<img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogaprasadmk&layout=compact"/>
   <img width=410  src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
-</div>
+	</div>
 </div>
 <hr/>
 <div align=center>

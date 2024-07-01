@@ -112,8 +112,6 @@ class Skills extends SoftwareDeveloper {
 <br>
 
 <div align=center>
-<img width=390 src="https://stats.quira.sh/Yogaprasadmk/languages-over-time?theme=dark)(https://quira.sh?utm_source=widgets&utm_campaign=Yogaprasadmk"/>
-<img width=390 src="https://stats.quira.sh/Yogaprasadmk/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Yogaprasadmk"/>
 <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yogaprasadmk&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
 <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
